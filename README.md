@@ -10,3 +10,6 @@ Discover Your Zodiac Sign: Calculate your zodiac sign based on your birth date w
 > BeautifulSoup - scrape data <br>
 > requests - interact with site
 
+Code for **longer horiscopes.py** works but the website for horiscopes is TBD.
+
+![Cropped Zodiac](https://github.com/user-attachments/assets/5dbef045-bd45-4f78-a37b-1f6d7f5e56e0)
